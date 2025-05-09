@@ -1,8 +1,8 @@
-﻿using ALevelBlazorTemplate.Model;
-using Microsoft.AspNetCore.Identity;
+﻿using Microsoft.AspNetCore.Identity;
+using PokemonBlazorApp.Model;
 using System.Security.Claims;
 
-namespace ALevelBlazorTemplate.Components.Account
+namespace PokemonBlazorApp.Components.Account
 {
     public static class AccountRouteExtensions
     {

@@ -1,9 +1,9 @@
-using ALevelBlazorTemplate.Components;
-using ALevelBlazorTemplate.Components.Account;
-using ALevelBlazorTemplate.Context;
-using ALevelBlazorTemplate.Model;
+using PokemonBlazorApp.Components;
 using Microsoft.AspNetCore.Components.Authorization;
 using Microsoft.AspNetCore.Identity;
+using PokemonBlazorApp.Components.Account;
+using PokemonBlazorApp.Context;
+using PokemonBlazorApp.Model;
 
 var builder = WebApplication.CreateBuilder(args);
 
